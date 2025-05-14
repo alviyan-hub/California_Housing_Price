@@ -1,1 +1,3 @@
-"# California_Housing_Price" 
+**California Housing Price**
+
+Dataset California Housing ini berisi data sensus perumahan dari tahun 1990 dan mencakup berbagai fitur seperti jumlah kamar tidur, kepadatan penduduk, dan jarak ke pantai, serta target variabel median_house_value yang merepresentasikan nilai rata-rata rumah dalam satu blok. Dataset ini sangat relevan untuk digunakan dalam membangun model regresi karena bersifat numerik dan representatif terhadap variabel-variabel real estat yang umum dianalisis. Dengan pendekatan supervised learning, khususnya regresi, kita dapat membangun model prediktif yang mampu memperkirakan nilai rumah di berbagai wilayah California secara akurat.
